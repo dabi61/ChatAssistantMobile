@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.chatassistantmobile.app-debug-74:/drawable_ic_bubble_notification.xml.flat",
+        "source": "com.chatassistantmobile.app-main-76:/drawable/ic_bubble_notification.xml"
+    },
+    {
+        "merged": "/Users/macbook/.gradle/daemon/8.7/com.chatassistantmobile.app-debug-74:/xml_accessibility_service_config.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.7/com.chatassistantmobile.app-main-76:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "/Users/macbook/.gradle/daemon/8.7/com.chatassistantmobile.app-debug-74:/drawable_ic_widget_preview.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.7/com.chatassistantmobile.app-main-76:/drawable/ic_widget_preview.xml"
+    },
+    {
+        "merged": "/Users/macbook/.gradle/daemon/8.7/com.chatassistantmobile.app-debug-74:/layout_widget_loading.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.7/com.chatassistantmobile.app-main-76:/layout/widget_loading.xml"
+    },
+    {
+        "merged": "/Users/macbook/.gradle/daemon/8.7/com.chatassistantmobile.app-debug-74:/xml_latest_suggestion_widget_info.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.7/com.chatassistantmobile.app-main-76:/xml/latest_suggestion_widget_info.xml"
+    },
+    {
+        "merged": "/Users/macbook/.gradle/daemon/8.7/com.chatassistantmobile.app-debug-74:/xml_backup_rules.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.7/com.chatassistantmobile.app-main-76:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/macbook/.gradle/daemon/8.7/com.chatassistantmobile.app-debug-74:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/macbook/.gradle/daemon/8.7/com.chatassistantmobile.app-main-76:/xml/data_extraction_rules.xml"
+    }
+]

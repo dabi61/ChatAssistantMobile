@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat Assistant Mobile</string>
+    <string name="accessibility_service_description">Read visible chat text for assistant analysis when user enables this feature.</string>
+    <string name="widget_description">Show the latest chat analysis summary and quick reply.</string>
+</resources>

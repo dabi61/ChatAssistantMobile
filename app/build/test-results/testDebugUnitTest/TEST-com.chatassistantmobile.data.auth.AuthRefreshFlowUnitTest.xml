@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chatassistantmobile.data.auth.AuthRefreshFlowUnitTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-02-23T09:19:11" hostname="Macbooks-MacBook-Pro.local" time="0.252">
+  <properties/>
+  <testcase name="tokenAuthenticator_refreshesAndRetries_withNewAccessToken" classname="com.chatassistantmobile.data.auth.AuthRefreshFlowUnitTest" time="0.105"/>
+  <testcase name="tokenAuthenticator_clearsSession_whenRefreshFails" classname="com.chatassistantmobile.data.auth.AuthRefreshFlowUnitTest" time="0.001"/>
+  <testcase name="authInterceptor_skipsBearerHeader_forRefreshApi" classname="com.chatassistantmobile.data.auth.AuthRefreshFlowUnitTest" time="0.141"/>
+  <testcase name="authInterceptor_addsBearerHeader_forProtectedApi" classname="com.chatassistantmobile.data.auth.AuthRefreshFlowUnitTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

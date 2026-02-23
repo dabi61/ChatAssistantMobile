@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_bubble_notification
+drawable ic_widget_preview
+layout widget_loading
+string accessibility_service_description
+string app_name
+string widget_description
+style Theme.ChatAssistantMobile
+xml accessibility_service_config
+xml backup_rules
+xml data_extraction_rules
+xml latest_suggestion_widget_info

@@ -1,0 +1,7 @@
+# Copy to local.properties and update paths/values for your machine.
+# sdk.dir is required for Gradle Android builds.
+sdk.dir=/Users/your-user/Library/Android/sdk
+
+# Optional overrides (can stay local and avoid committing secrets)
+BACKEND_BASE_URL=http://10.0.2.2:8000/
+GOOGLE_WEB_CLIENT_ID=your_google_web_client_id.apps.googleusercontent.com
