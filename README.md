@@ -25,7 +25,7 @@ Android Jetpack Compose app scaffold for Google login + backend token exchange +
 Add these values in `gradle.properties` or user-level Gradle properties:
 
 ```properties
-BACKEND_BASE_URL=http://10.0.2.2:8000/
+BACKEND_BASE_URL=https://api.jlpt.codes/
 GOOGLE_WEB_CLIENT_ID=your_web_client_id_from_google_cloud
 ```
 

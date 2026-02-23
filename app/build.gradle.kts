@@ -38,7 +38,7 @@ android {
 
         val backendBaseUrl = resolveBuildProperty(
             name = "BACKEND_BASE_URL",
-            defaultValue = "http://10.0.2.2:8000/"
+            defaultValue = "https://api.jlpt.codes/"
         ).ensureTrailingSlash()
         val googleWebClientId = resolveBuildProperty("GOOGLE_WEB_CLIENT_ID")
 

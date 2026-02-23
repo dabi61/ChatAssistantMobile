@@ -46,7 +46,7 @@ Muc tieu file nay:
 ## 6) Ghi chu van hanh
 - Neu thay ket qua phan tich lech: vao Settings -> Accessibility capture preview de so sanh Raw vs Filtered.
 - Neu bubble/service bi stale sau update: force stop app, bat lai bubble.
-- Local backend thuong chay qua `127.0.0.1:8001` + `adb reverse`.
+- Backend hien tai dung production API `https://api.jlpt.codes/` (khong dung local `127.0.0.1` + `adb reverse`).
 
 ## 7) Cach tiep tuc o phien sau
 - Bat dau bang cau: "Hay doc SESSION_MEMORY_2026-02-23.md va tiep tuc tu trang thai nay."

@@ -43,5 +43,5 @@
 ## Validation Checklist
 - [ ] Set valid `GOOGLE_WEB_CLIENT_ID` from Firebase/Google Cloud.
 - [ ] Ensure backend `.env` has matching `GOOGLE_CLIENT_IDS`.
-- [ ] Confirm emulator can hit backend (`10.0.2.2`).
+- [ ] Confirm device/emulator can hit production backend (`https://api.jlpt.codes`).
 - [ ] Verify login -> analyze -> refresh -> logout end-to-end.
